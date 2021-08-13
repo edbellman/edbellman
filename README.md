@@ -10,7 +10,7 @@
   - Anything Power Apps, Power Automate, SharePoint related
   - Home Automation
 - 📫 How to reach me ...
-  - Twitter: @edbellman
+  - Twitter: https://twitter.com/EdBellman
   - LinkedIn: https://www.linkedin.com/in/edbellman
   - Polywork: https://www.polywork.com/edbellman
 
