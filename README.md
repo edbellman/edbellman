@@ -11,8 +11,8 @@
   - Home Automation
 - 📫 How to reach me ...
   - Twitter: @edbellman
-  - LinkedIn: 
-  - PolyWork: 
+  - LinkedIn: https://www.linkedin.com/in/edbellman
+  - Polywork: https://www.polywork.com/edbellman
 
 <!---
 edbellman/edbellman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
