@@ -5,6 +5,7 @@
   - 3D Printing
   - Home Automation (HomeKit/Homebridge/Home Assistant)
 - 🌱 I’m currently learning ...
+  - Power Apps Code Apps
   - AI
   - React
   - T-SQL
