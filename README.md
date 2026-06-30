@@ -5,8 +5,8 @@
   - 3D Printing
   - Home Automation (HomeKit/Homebridge/Home Assistant)
 - 🌱 I’m currently learning ...
-  - Github
-  - Azure DevOps
+  - AI
+  - React
   - T-SQL
 - 💞️ I’m looking to collaborate on ...
   - Anything Power Apps, Power Automate, SharePoint related
